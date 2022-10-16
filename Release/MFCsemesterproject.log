@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 741 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MFCsemesterproject.vcxproj -> C:\Users\chris\Desktop\Programming\Object Oriented Comsc-200\MFCsemesterproject\Release\MFCsemesterproject.exe
